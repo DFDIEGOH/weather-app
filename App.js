@@ -1,12 +1,5 @@
-import React, {useState, useRef} from 'react';
-import {
-  View,
-  Text,
-  TextInput,
-  StyleSheet,
-  ImageBackground,
-  Animated,
-} from 'react-native';
+import React, {useState} from 'react';
+import {View, Text, TextInput, StyleSheet, ImageBackground} from 'react-native';
 
 let clouds = './assets/clouds.jpg';
 let sunny = './assets/sunny.jpg';
